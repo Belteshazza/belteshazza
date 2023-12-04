@@ -18,13 +18,3 @@
 - 📫 How to reach me: idongesitutong@gmail.com, +2348137489567 on WhatsApp and Calls
 - ⚡ Fun fact: I love the game of Chess
 
-
-<h3> Language and Tools </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealthydeveloper&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wealthydeveloper&count_private=true&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealthydeveloper&hide_border=true)](https://git.io/streak-stats)
- 
-
