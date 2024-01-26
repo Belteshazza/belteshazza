@@ -9,10 +9,10 @@
 
 
 
-- 🔭 I’m currently working on some amazing Laravel and NFT's projects
-- 🌱 I’m currently learning Express.js
-- 👯 I’m looking to collaborate with developers on amzing projects for mobile, web apps and NFT's
-- 💬 Ask me about Laravel,Sql,Laragon,API's and NFT's
-- 📫 How to reach me: idongesitutong@gmail.com, +2348137489567 on WhatsApp and Calls
-- ⚡ Fun fact: I love the game of Chess
+🔭 I am presently engaged in the development of several exciting projects utilizing Laravel.
+🌱 I am in the process of expanding my skill set by learning Express.js.
+👯 My interests lie in constructing scalable and sustainable projects. I thrive in collaborative environments, working alongside Vue and React developers on frontend tasks, while focusing on Laravel and API tasks for backend and mobile web applications.
+💬 Feel free to inquire about my expertise in Laravel, SQL, Laragon, APIs, and NFTs.
+📫 Contact Information: You can reach me via email at idongesitutong@gmail.com or through WhatsApp and phone calls at +2348137489567.
+⚡ Interesting Tidbit: I have a passion for the strategic game of chess.
 
