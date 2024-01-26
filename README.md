@@ -10,9 +10,14 @@
 
 
 🔭 I am presently engaged in the development of several exciting projects utilizing Laravel.
+
 🌱 I am in the process of expanding my skill set by learning Express.js.
+
 👯 My interests lie in constructing scalable and sustainable projects. I thrive in collaborative environments, working alongside Vue and React developers on frontend tasks, while focusing on Laravel and API tasks for backend and mobile web applications.
+
 💬 Feel free to inquire about my expertise in Laravel, SQL, Laragon, APIs, and NFTs.
+
 📫 Contact Information: You can reach me via email at idongesitutong@gmail.com or through WhatsApp and phone calls at +2348137489567.
+
 ⚡ Interesting Tidbit: I have a passion for the strategic game of chess.
 
