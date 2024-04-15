@@ -9,7 +9,7 @@
 
 
 
-🔭 I'm currently engaged in the development of several exciting projects utilizing Laravel.
+🔭 I'm currently building exciting new projects with Laravel!
 
 🌱 I'm also learning Express.js.
 
