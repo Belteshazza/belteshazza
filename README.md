@@ -5,7 +5,7 @@
 --->
 ![flat-design-backend-developer-landing-page-vector](https://user-images.githubusercontent.com/45596363/189547661-765f5683-6ea5-4447-9895-8ca42c6c7aa2.jpg)
 
-<h3 align="center"> A PASSIONATE BACKEND DEVELOPER  </h3>
+<h3 align="center"> A PASSIONATE BACKEND DEVELOPER   </h3>
 
 
 
